@@ -1,0 +1,9 @@
+# Versions below are the ones this app was tested with. Use these or newer.
+streamlit>=1.50
+xgboost>=3.4
+statsmodels>=0.14
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+joblib>=1.3
+holidays>=0.50
